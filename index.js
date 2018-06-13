@@ -1,3 +1,7 @@
+// The sendMessage and getEvents functions were modified by me starting with the code from 
+// here https://stackapps.com/questions/6527/chatexchange-it-is-an-api-for-chat
+// which is under the Apache 2.0 license.
+
 var excuses = ["It's a browser issue",
     "I wasn't told how to do that so I had to guess which way they wanted it",
     "The accounting department made me put that there",
