@@ -2,6 +2,8 @@
 // here https://stackapps.com/questions/6527/chatexchange-it-is-an-api-for-chat
 // which is under the Apache 2.0 license.
 
+//The excuses came from here https://gist.github.com/fortytw2/78f5f9ef915cb43a3be4
+
 var excuses = ["It's a browser issue",
     "I wasn't told how to do that so I had to guess which way they wanted it",
     "The accounting department made me put that there",
